@@ -20,6 +20,6 @@ function sortMaker(arr) {
     
 }
 
-const arrayInput = [2 , 2];
+const arrayInput = [2 , 3];
 const arrayOutput= sortMaker(arrayInput)
 console.log(arrayOutput);

@@ -11,5 +11,5 @@ function matchFinder(string1, string2) {
     }
     }
 
-const input = matchFinder('israt Jahan',2 )
+const input = matchFinder('Peter Parker' ,'pet')
 console.log(input);

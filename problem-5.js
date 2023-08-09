@@ -1,0 +1,2 @@
+function canPay(changeArray, totalDue) { 
+}
